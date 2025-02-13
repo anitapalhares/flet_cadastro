@@ -1,3 +1,3 @@
 # app flet cadastro
-aplicação python com biblioteca flet focado em app de cadastro mobile
+Aplicação python com biblioteca flet focado em app de cadastro mobile
 responsividade
